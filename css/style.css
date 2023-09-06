@@ -95,6 +95,7 @@ color: #fff;
     font-size: 15px;
     cursor: pointer;
     transition: .5s;
+    margin-top: 18px;
     }
 .form form textarea{
 
@@ -175,7 +176,7 @@ margin-bottom: 68px;
 }
 .icon{
 
-width: 50px;
+width: 77px;
 
 font-size: 19px;
 }
@@ -184,6 +185,8 @@ font-size: 19px;
 display: flex;
 
 width: 320px;
+
+margin-top: 11px;
 }
 
 .info h4{
@@ -228,4 +231,18 @@ margin-bottom: 47px;
 .box{
     
 /* display: flex; */
+}
+
+.icon i{
+    color: #f3f1f1;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 0px solid #11294acc;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 15%;
+    margin-top: 5%;
+    background-color: #272a34e6;
+    
 }
